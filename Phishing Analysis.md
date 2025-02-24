@@ -2,13 +2,11 @@
 Social engineering is the practice of exploiting a human as opposed to a system, using psychological methods in order to get them to complete actions that they wouldn't normally do, such as disclosing confidential information, allowing someone into a restricted area without proper authorization, or transferring money to an unverified account. 
 **Phishing is a social engineering attack.**
 * * *
-![7c710967a72a82007b330cb68ceab5a3.png](../_resources/7c710967a72a82007b330cb68ceab5a3.png)
-![48a7da86c382bcd4325b4be209804d59.png](../_resources/48a7da86c382bcd4325b4be209804d59.png)
 ## Email Protocols
 - Simple Mail Transfer Protocol (SMTP)
 - Post Office Protocol 3 (POP3)
 - Internet Mail Access Protocol (IMAP)
-![0e760b96258efc94c9905d4c2d2ebfd5.png](../_resources/0e760b96258efc94c9905d4c2d2ebfd5.png)
+
 ### Webmail
 Webmail allows users to access their emails as long as they have access to an Internet connection and a web browser. 
 * * *
@@ -54,10 +52,7 @@ Whaling is a highly-targeted phishing attack that looks to target individuals wi
 **Microsoft Office Macros**
 **Hosted Malware**
 - Malicious Domains
-![6ab5551333b51a3be794bcc8b59e576c.png](../_resources/6ab5551333b51a3be794bcc8b59e576c.png)
 - Compromised Domains
-![2d3f683a6fd10d13e8a0a579e5765802.png](../_resources/2d3f683a6fd10d13e8a0a579e5765802.png)
-
 
 ### Spam emails
 Spam emails (also known as "junk mail") are messages that are unsolicited, unwanted, or unexpected but are not necessarily malicious in nature.

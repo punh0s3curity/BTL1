@@ -78,13 +78,11 @@ Accountability is the process of being able to identify what has happened and wh
 * * *
 ## Networking
 ### OSI model
-![d3de2c885e5380e6568393034f21cb9e.png](../_resources/d3de2c885e5380e6568393034f21cb9e.png)
 
 ### Protocols
 Transmission Control Protocol (TCP)
 - Connection-oriented protocol
 - Three-way handshake
-![ef01052c552e41e8d3e3db6ec50df03f.png](../_resources/ef01052c552e41e8d3e3db6ec50df03f.png)
 
 User Datagram Protocol (UDP)
 - UDP is connectionless
@@ -160,7 +158,7 @@ A weakness that can be exploited by a threat.
 Risk assessments are conducted to identify and determine the impacts of risk, the likelihood and the consequences should a risk materialize. 
 
 **Managing Risk**
-![a0bc2acf0f8d759b8de6d4fbc1242b7b.png](../_resources/a0bc2acf0f8d759b8de6d4fbc1242b7b.png)
+
 
 **Policies**
 A policy is a plan of intent or course of action towards a particular domain. Policies are at the highest level, followed by procedures and standards, and then guidelines.

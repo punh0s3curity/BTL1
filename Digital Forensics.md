@@ -30,11 +30,9 @@ When digital forensics (DF) and incident response (IR) come together, when inves
 - Combines a set of digits to create large numbers.
 - Hex uses a set of 16 unique digits.
 - Hex uses the standard 0-9, A, B, C, D, E, and F.
-![bf606637eb0fe90179489384853dda30.png](../_resources/bf606637eb0fe90179489384853dda30.png)
 
 **ASCII**
 ASCII (American Standard Code for Information Interchange) is the most common format for text files in computers and on the Internet. In an ASCII file, each alphabetic, numeric, or special character is represented with a 8-bit binary number (a string of eight 0s or 1s).
-![c5ce8096416c2bcaac5e481764e19eea.png](../_resources/c5ce8096416c2bcaac5e481764e19eea.png)
 
 ### Hard Disk Drive Basics
 A hard disk drive (HDD) is a non-volatile memory hardware device that controls the positioning, reading and writing of the hard disk, which furnishes data storage. Hard disk drives are commonly used as the main storage device in a desktop computer or laptop. HDDs will typically store an operating system, software programs and user-created files such as documents. Hard disk drives are commonly found in drive bays and are connected to the motherboard via an ATA, SATA, or SCSI cable, and also connected directly to a power supply unit (PSU).

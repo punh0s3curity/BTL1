@@ -27,7 +27,6 @@ Security Event Management, also known as SEM is a security software specialized 
 - Analyze logs according to their level of importance.
 - Real-time incident response.
 
-![664e07dbbb13660379b8238a51f7f486.png](../_resources/664e07dbbb13660379b8238a51f7f486.png)
 **Advantages:**
 - Centralization of information from different devices and network elements.
 - Reduction of false positives and false negatives.
@@ -40,7 +39,6 @@ Security Event Management, also known as SEM is a security software specialized 
 
  ### What is a SIEM?
  Security Information and Event Management (SIEM) is a software solution that aggregates and analyzes activity from different resources across an organization’s entire IT infrastructure. SIEM is a combination of security information management (SIM) and security event management (SEM) that uses rules and statistical correlations to help organizations detect threats and turn log entries, and events from security systems, into actionable information.
-![67384496cae66aeebd0f9615a2459eee.png](../_resources/67384496cae66aeebd0f9615a2459eee.png)
 
 **Benefits of a SIEM**:
 - Advanced Threat Detection
@@ -59,7 +57,6 @@ Every activity in your environment, from emails to logins to firewall updates, i
 - Syslog uses UDP 514 by default; TCP 514 can be used for more reliability;
 - Syslog does not offer authentication or encryption built-in, so it may be susceptible to attacks.
 
-![20ac829151139589561d0f21e0ef9f80.png](../_resources/20ac829151139589561d0f21e0ef9f80.png)
 **A Syslog message is made of three components:**
 - Priority Value (PRI)
 - Header
@@ -159,7 +156,6 @@ Log aggregators can directly access network devices or computing systems, using 
 - The main purpose of this project is to provide a structured form in which researchers or analysts can describe their detection methods and make them shareable with others.
 - Rules can be written in the Sigma language and then using a converter (Sigmac) they can be exported as rules in the correct format for a number of different SIEM platforms. 
 - This process can also be reversed allowing security professionals to export rules from their vendor format to Sigma format so they can be used by teams with a different SIEM.
-![e99e57586f575b8c5161bc5f7150711a.png](../_resources/e99e57586f575b8c5161bc5f7150711a.png)
 
 **Benefits of Using Sigma:**
 - Describe your detection method in Sigma to make it sharable

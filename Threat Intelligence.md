@@ -76,7 +76,7 @@ It is an Intelligence Driven Defense model for the identification and prevention
 7. Actions on Objectives
 ### Pyramif of Pain
 The pyramid of pain is a visual representation of the amount of pain we can cause a malicious actor in denying them certain indicators, working to disrupt their operations. Starting at the bottom are the easiest indicators that an actor can change (remember, we can change the hash of a malicious file by editing a single character! This can circumvent hash-based blocks in security tooling), and at the top is the hardest indicator to change, forcing adversaries to change their entire operations by understanding and defending against the techniques they use in attacks.
-![e7505e88338ba2dbebe7d63070b5c4e2.png](../_resources/e7505e88338ba2dbebe7d63070b5c4e2.png)
+
 ### Attribution
 Attribution is the determination of a cause or origin of action. In the realms of cybersecurity, we are primarily concerned about this when malicious actors are in play, and determining who, what or where a cyber breach or intrusion has occurred.
 - Machine Attribution
@@ -102,8 +102,6 @@ Simply put, a Threat Intelligence Platform allows an organization to store every
 - Integrate with existing security controls such as firewalls and intrusion prevention systems.
 - Analysis and sharing of threat intelligence.
 
-![4d5b36a7613bfeefe8e9b02f66aaf46f.png](../_resources/4d5b36a7613bfeefe8e9b02f66aaf46f.png)
-
 ### TIP Products
 - Malware Information Sharing Platform (MISP)
 - ThreatConnect
@@ -115,7 +113,7 @@ Strategic intelligence typically involves collecting and sharing actionable inte
 ### Intelligence Sharing and Partnerships
 If an organization has an established threat intelligence team, someone will likely be responsible for connecting with other organizations to join or form an Information Sharing and Analysis Center (ISAC). These are typically industry-specific groups comprised of multiple organizations in order to share actionable intelligence such as indicators of compromise, precursors, and information about attacks and threats.
 ### IOC/TTP Gathering and Distributio
-![a2b183c9c98dd9066263225b87b60a1c.png](../_resources/a2b183c9c98dd9066263225b87b60a1c.png)
+
 ### Traffic Light Protocol
 The purpose of TLP is to allow the author of the original information to state how they want their information to be circulated, such as sharing only with specific individuals, within an organization, within trusted communities, or in the public domain.
 **TLP Clear**

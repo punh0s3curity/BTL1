@@ -5,7 +5,6 @@
 ## Incident Response Lifecycle
 - Many organizations have procedures for handling computer-security incidents, and this is known as having an Incident Response Plan (IRP).  
 - Many of these plans are based on the NIST SP 800 61r2 guidelines. 
-![089b6e83780af9bf531e67ecc2d1b306.png](../_resources/089b6e83780af9bf531e67ecc2d1b306.png)
 
 ### Preparation
 - While there is no perfect preparation phase of the incident response process, it is the first line of defense of an attack that could have catastrophic damage.
@@ -51,7 +50,6 @@ Network Defenses
 - Firewalls -> Firewalls are used to separate parts of a network to create private zones by restricting the traffic that can come in or go out.
 - Event Monitoring
 - Web Proxy -> Requests for internet resources are sent from the requesting client to the web proxy, then sent on behalf of the proxy to the destination, the request is fulfilled and the resource is sent back to the proxy, where it sends it to the requesting client.
-![18a88a01cfc89fbc519b130bc94b7bfc.png](../_resources/18a88a01cfc89fbc519b130bc94b7bfc.png)
 
 Email Defenses
 - SPF, DKIM, DMARC
